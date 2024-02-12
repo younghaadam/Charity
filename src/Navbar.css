@@ -1,0 +1,25 @@
+li {
+    list-style: none;
+    padding: 20px;
+    font-size: 17px;
+    /* font-family: cursive; */
+    color: white;
+}
+
+
+
+
+.navbar-brand {
+    text-transform: uppercase;
+    letter-spacing: .1em;
+    font-size: 30px;
+    font-family: "Gaegu", cursive;
+}
+
+.navbar-brand.giving {
+    color: white;
+    font-size: 50px;
+  }
+  
+
+

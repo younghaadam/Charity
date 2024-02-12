@@ -1,0 +1,41 @@
+.featured-donate.overlay-color, .featured-donate.overlay-color-2, .featured-section.overlay-color, .featured-section.overlay-color-2 {
+    position: relative;
+}
+
+
+
+.featured-donate, .featured-section {
+    padding: 4em 0;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+
+
+/* src/styles.css */
+
+.featured-donate {
+    position: relative;
+    background-size: cover;
+    background-position: center center;
+  }
+  
+.overlay-color {
+    background-color: rgba(0, 0, 0, 0.5); /* Adjust the opacity as needed */
+  }
+  
+.featured-donate .container {
+    position: relative;
+    z-index: 2;
+  }
+  
+.featured-text {
+    display: block;
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+  }
+  
+  /* Add more styles as needed */
+  

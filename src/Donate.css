@@ -1,0 +1,185 @@
+
+
+.donate {
+    /* Your custom styles for the Home component */
+    background-image: url('../src/img/UN3.webp');
+    background-size: cover;
+    background-position: center;
+    height: 100vh; /* Adjust the height as needed */
+    /* You can add more CSS properties as needed */
+}
+
+
+
+
+.lead {
+    color: white;
+    margin-top: 30px;
+    font-size: 22px;
+}
+
+
+
+.site-section {
+    margin-top: 30px;
+}
+
+
+.h2d {
+    margin-top: 30px;
+    color: white;
+}
+
+
+.person-donate .donate-amount .label {
+    background: #f2f2f2;
+}
+
+.person-donate .donate-amount .amount {
+    background: #28a745;
+    color: #fff;
+}
+
+.person-donate .donate-amount > div {
+    width: 50%;
+    padding: 10px;
+}
+
+
+
+.featured-section{
+    position: relative;
+}
+
+/* 
+.featured-section {
+    padding: 4em 0;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+} */
+
+/* .overlay-color-2:before {
+    background: #79ccab;
+} */
+
+/* .featured-section:before {
+    position: absolute;
+    content: "";
+   
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    opacity: .9;
+} */
+
+
+.block-47 .block-47-quote {
+    margin-left: 40px;
+    padding: 30px;
+    background: #fff;
+    border-radius: 7px;
+    position: relative;
+    /* -webkit-box-shadow: 0 2px 30px -2px rgba(0, 0, 0, 0.1); */
+    box-shadow: 0 2px 30px -2px rgba(0, 0, 0, 0.1);
+}
+
+
+blockquote {
+    margin: 0 0 1rem;
+}
+
+
+blockquote {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px;
+}
+
+
+.block-47 .block-47-quote:before {
+    content: "";
+    border: 1px solid red;
+    z-index: 2;
+    position: absolute;
+    left: -15px;
+    border-width: 0 20px 20px 0;
+    border-style: solid;
+    border-color: transparent #fff transparent transparent;
+}
+
+
+.block-47 .block-47-image img {
+    border: 5px solid #fff;
+    border-radius: 50%;
+    -webkit-box-shadow: 0 8px 10px -2px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 8px 10px -2px rgba(0, 0, 0, 0.3);
+}
+
+.person-donate img {
+    border-radius: 50%;
+    width: 100px;
+    margin-bottom: 20px;
+}
+
+
+.person-donate h2 {
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+}
+
+/* h2, h3, .h2, .h3 {
+    color: #000;
+    font-weight: 300;
+} */
+
+.person-donate .time {
+    color: #b3b3b3;
+    font-size: 13px;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+img {
+    vertical-align: middle;
+    border-style: none;
+}
+
+
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+
+
+      /* Footer css */
+
+
+.footer {
+    background: #404040;
+    padding: 8em 0;
+    color: #fff;
+}
+
+.btn.btn-primary {
+    background: #79ccab;
+    border: 2px solid #79ccab;
+    color: #fff;
+}
+
+
+.footer .heading-section {
+    font-size: 20px;
+    text-transform: uppercase;
+    margin-bottom: 40px;
+    letter-spacing: .1em;
+    color: #fff !important;
+    font-family: "Gaegu", cursive;
+}
