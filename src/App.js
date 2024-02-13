@@ -73,6 +73,8 @@ import Home from './Home';
 import Donate from './Donate';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Gallery from './Gallery';
+import About from './About';
+
 
 
 function App() {
@@ -85,6 +87,9 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/donate" element={<Donate />} />
           <Route path="/gallery" element={<Gallery />} />
+          <Route path="/about" element={<About />} />
+
+
         </Routes>
       </div>
     </Router>
