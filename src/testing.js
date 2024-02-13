@@ -1,4 +1,4 @@
-<div class="site-section mb-5">
+{/* <div class="site-section mb-5">
 <div class="container">
 <div class="row mb-5">
 <div class="col-md-12 mb-5">
@@ -73,6 +73,93 @@
 </div>
 </div>
 </div>
+</div>
+</div>
+</div>
+</div> */}
+
+
+
+
+
+
+
+
+
+<div class="site-section">
+<div class="container">
+<div class="row no-gutters">
+<div class="col-md-4">
+<a href="images/img_1.jpg" class="image-popup img-hover">
+<span class="icon icon-search"></span>
+<img src="images/img_1.jpg" alt="Image placeholder" class="img-fluid">
+</a>
+</div>
+<div class="col-md-4">
+<a href="images/img_2.jpg" class="image-popup img-hover">
+<span class="icon icon-search"></span>
+<img src="images/img_2.jpg" alt="Image placeholder" class="img-fluid">
+</a>
+</div>
+<div class="col-md-4">
+<a href="images/img_3.jpg" class="image-popup img-hover">
+<span class="icon icon-search"></span>
+<img src="images/img_3.jpg" alt="Image placeholder" class="img-fluid">
+</a>
+</div>
+<div class="col-md-4">
+<a href="images/img_4.jpg" class="image-popup img-hover">
+<span class="icon icon-search"></span>
+<img src="images/img_4.jpg" alt="Image placeholder" class="img-fluid">
+</a>
+</div>
+<div class="col-md-4">
+<a href="images/img_1.jpg" class="image-popup img-hover">
+<span class="icon icon-search"></span>
+<img src="images/img_1.jpg" alt="Image placeholder" class="img-fluid">
+</a>
+</div>
+<div class="col-md-4">
+<a href="images/img_2.jpg" class="image-popup img-hover">
+<span class="icon icon-search"></span>
+<img src="images/img_2.jpg" alt="Image placeholder" class="img-fluid">
+</a>
+</div>
+<div class="col-md-4">
+<a href="images/img_1.jpg" class="image-popup img-hover">
+<span class="icon icon-search"></span>
+<img src="images/img_1.jpg" alt="Image placeholder" class="img-fluid">
+</a>
+</div>
+<div class="col-md-4">
+<a href="images/img_2.jpg" class="image-popup img-hover">
+<span class="icon icon-search"></span>
+<img src="images/img_2.jpg" alt="Image placeholder" class="img-fluid">
+</a>
+</div>
+<div class="col-md-4">
+<a href="images/img_3.jpg" class="image-popup img-hover">
+<span class="icon icon-search"></span>
+<img src="images/img_3.jpg" alt="Image placeholder" class="img-fluid">
+</a>
+</div>
+<div class="col-md-4">
+<a href="images/img_4.jpg" class="image-popup img-hover">
+<span class="icon icon-search"></span>
+<img src="images/img_4.jpg" alt="Image placeholder" class="img-fluid">
+</a>
+</div>
+<div class="col-md-4">
+<a href="images/img_1.jpg" class="image-popup img-hover">
+<span class="icon icon-search"></span>
+<img src="images/img_1.jpg" alt="Image placeholder" class="img-fluid">
+</a>
+</div>
+<div class="col-md-4">
+<a href="images/img_2.jpg" class="image-popup img-hover">
+<span class="icon icon-search"></span>
+<img src="images/img_2.jpg" alt="Image placeholder" class="img-fluid">
+</a>
 </div>
 </div>
 </div>
